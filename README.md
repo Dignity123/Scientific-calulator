@@ -32,5 +32,5 @@ The goal of this project is to showcase the use of the `tkinter` library to buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dignity123/scientific-calculator.git
-   cd scientific-calculator
+   git clone https://github.com/Dignity123/Scientific-calculator.git
+   cd Scientific-calculator
